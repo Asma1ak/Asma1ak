@@ -56,6 +56,4 @@ A production-ready starter template for NestJS APIs — JWT auth with refresh to
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Asma1ak&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
 </div>
